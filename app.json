@@ -2,8 +2,8 @@
   "name": "SubConverter",
   "description": "Run SubConverter on Heroku.",
   "keywords": ["subconverter"],
-  "website": "https://github.com/tindy2013/heroku-subconverter",
-  "repository": "https://github.com/tindy2013/subconverter",
+  "website": "https://github.com/xrw002/heroku-subconverter",
+  "repository": "https://github.com/xrw002/subconverter",
   "stack": "container",
   "env": {
     "API_MODE": {
